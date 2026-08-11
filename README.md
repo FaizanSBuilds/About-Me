@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">A passionate solopreneur from the UK.</h3>
 
-<p align="left"> <a href="https://twitter.com/faizan_s_a" target="blank"><img src="https://img.shields.io/twitter/follow/faizan_s_a?logo=twitter&style=for-the-badge" alt="faizan_s_a" /></a> </p>
 
 - 🔭 I’m currently working on **AI-Driven Travel Booking Platform.**
 
